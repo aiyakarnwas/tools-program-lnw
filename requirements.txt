@@ -1,0 +1,5 @@
+psycopg2-binary==2.9.10
+cryptography==43.0.3
+OpenPGP==0.2.3
+pycryptodome==3.21.0
+python-gnupg==0.5.3

@@ -1,0 +1,11 @@
+﻿row_no|CustomerNo|Customer_Name_Th|ChkThaiName|ChkEngName|Customer_Name_En|DOB|CountryCode|CustomerType|Zipcode|ACTION|Old_Act|OVRACT|POB|ReasonCode|RTN_Customer|SrcSEQ
+1|254134546912|มารีนี ปรีชากุลเศรษฐ์|มารีนี ปรีชากุลเศรษฐ์|Amy Williams|Amy Williams|1982-02-24|FR|N|68904|A|||นครปฐม|||(1)(2)(3)
+2||สุมัชญา ถนอมมนุษย์|สุมัชญา ถนอมมนุษย์|Jessica Becker|Jessica Becker|1946-02-21|GB|W|74906|A|||ภูเก็ต|||(1)(2)(3)
+3|HS231902L|สิริรัตน์ ดวงทับทิม|สิริรัตน์ ดวงทับทิม|||1950-05-16|GB|N|66233|B|||สกลนคร|||(1)(2)(3)
+4|46879140014|||Katrina Arellano|Katrina Arellano|1992-07-21|TH|N|95566|A|||นครสวรรค์|||(1)(2)(3)
+5|268-53-6117|คำปลิว ศรีธนะเวทย์|คำปลิว ศรีธนะเวทย์|Steven Oconnor MD|Steven Oconnor MD|1980-01-04|US|N|84608|B|||พัทยา|||(1)(2)(3)
+6||||Kathryn Williams|Kathryn Williams|1989-12-15|FR|N|58128|B|||อ้อมน้อย|||(1)(2)(3)
+7|AC874212J|ศดิศ พรมอ่อน|ศดิศ พรมอ่อน|Ryan Kelley|Ryan Kelley|1971-11-25|GB|N|80084|A|||แหลมฉบัง|||(1)(2)(3)
+8|96453284959|ธเนษฐ แก้วชลคราม|ธเนษฐ แก้วชลคราม|Jesse Brown|Jesse Brown|1970-09-22|TH|W|10230|A|||เชียงใหม่|||(1)(2)(3)
+9|ZM567106M|แกมแพร จันทา|แกมแพร จันทา|||1965-10-04|GB|W|93877|B|||นครปฐม|||(1)(2)(3)
+10|71065660687|||Seth Clark|Seth Clark|1965-03-18|TH|W|42342|B|||สมุทรสาคร|||(1)(2)(3)
